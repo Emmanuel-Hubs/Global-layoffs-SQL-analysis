@@ -2,6 +2,14 @@
 End-to-end SQL project involving data cleaning and exploratory analysis of global layoffs data to identify key trends, patterns, and business insights across industries 
 📊 Global Layoffs Data Analysis (SQL Project)
 
+## PROJECT STRUCTURE 
+- README.md
+- Raw data (layoffs.csv) 
+- Cleaned dataset (layoffs_clean.csv)
+- SQL CODE (data_cleaning.sql)
+- SQL CODE (exploratory_analysis.sql)
+
+
 ## 🧾 Overview
 #
 This project performs a complete end-to-end **data cleaning and exploratory data analysis (EDA)** on a real-world dataset of global layoffs using SQL.
