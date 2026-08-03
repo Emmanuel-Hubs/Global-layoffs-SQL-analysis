@@ -8,6 +8,7 @@ End-to-end SQL project involving data cleaning and exploratory analysis of globa
 - Cleaned dataset (layoffs_clean.csv)
 - SQL CODE (data_cleaning.sql)
 - SQL CODE (exploratory_analysis.sql)
+- Data visualization
 
 
 ## 🧾 Overview
@@ -29,6 +30,7 @@ This project demonstrates practical skills in:
 
 - MySQL Workbench
 - SQL (Data Cleaning & Analysis)
+- Microsoft Excel (Data visualization)
 - CSV dataset (raw layoffs data)
 
 ---
@@ -196,6 +198,7 @@ Companies that laid off employees collectively raised approximately 1.8Trillion 
 - Data standardization
 - Aggregation and trend analysis
 - Business insight generation
+- Microsoft Excel (Data visualization)
 
 ---
 
@@ -203,7 +206,7 @@ Companies that laid off employees collectively raised approximately 1.8Trillion 
 
 This project demonstrates a full SQL workflow:
 
-**Raw data → Cleaning → Structured dataset → Business insights**
+**Raw data → Cleaning → Structured dataset → Data visualization → Business insights**
 
 ---
 
