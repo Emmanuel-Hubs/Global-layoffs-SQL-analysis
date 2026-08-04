@@ -1,6 +1,6 @@
 # Global-layoffs-SQL-analysis
-End-to-end SQL project involving data cleaning and exploratory analysis of global layoffs data to identify key trends, patterns, and business insights across industries 
-📊 Global Layoffs Data Analysis (SQL Project)
+End-to-end SQL and Excel project involving data cleaning, visualization and exploratory analysis of global layoffs data to identify key trends, patterns, and business insights across industries 
+📊 Global Layoffs Data Analysis (SQL&Excel Project)
 
 ## PROJECT STRUCTURE 
 - README.md
@@ -8,12 +8,12 @@ End-to-end SQL project involving data cleaning and exploratory analysis of globa
 - Cleaned dataset (layoffs_clean.csv)
 - SQL CODE (data_cleaning.sql)
 - SQL CODE (exploratory_analysis.sql)
-- Data visualization
+- Data_visualization.md
 
 
 ## 🧾 Overview
 #
-This project performs a complete end-to-end **data cleaning and exploratory data analysis (EDA)** on a real-world dataset of global layoffs using SQL.
+This project performs a complete end-to-end **data cleaning, visualization and exploratory data analysis (EDA)** on a real-world dataset of global layoffs using SQL.
 
 The objective is to transform raw, inconsistent data into a structured analytical dataset and extract meaningful business insights about layoffs across companies, industries, countries, and time periods.
 
@@ -22,6 +22,7 @@ This project demonstrates practical skills in:
 - Data transformation
 - Handling missing and duplicate data
 - Exploratory data analysis
+- Data visualization 
 - Business insight generation
 
 ---
@@ -82,6 +83,18 @@ Final dataset created:
 Removed:
 - Rows missing both`total_laid_off` and `percentage_laid_off`
 - Temporary helper columns (`row_num`)
+
+---
+
+# 📊 Data Visualization 
+
+To complement the SQL analysis, key findings were visualized in Microsoft Excel using PivotTables, PivotCharts, and interactive charts. These visualizations provide a clear overview of global layoff trends, highlighting patterns across industries, countries, companies, funding stages, and time, enabling stakeholders to quickly identify patterns and derive actionable insights from the analysis.  
+
+- Layoffs by industry
+- Layoffs by country
+- TOP 10 companies by total layoffs
+- Layoffs trend over time
+- Layoffs by funding stage 
 
 ---
 
