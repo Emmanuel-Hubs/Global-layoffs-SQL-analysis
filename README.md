@@ -222,11 +222,3 @@ This project demonstrates a full SQL workflow:
 **Raw data → Cleaning → Structured dataset → Data visualization → Business insights**
 
 ---
-
-# 📌 Status
-
-✔ Data imported  
-✔ Data cleaned  
-✔ EDA completed  
-✔ Insights generated  
-✔ Portfolio-ready  
